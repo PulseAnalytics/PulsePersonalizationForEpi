@@ -1,0 +1,182 @@
+Pulse License and Account Terms
+By using Pulse or signing up for an account, you’re agreeing to this License and creating a legal agreement between you and Pulse (“Agreement”). Pulse (“Pulse,” “we,” or “us”) is an online marketing analytics and mapping visualization platform (the “App”) that allows you to visualize and map different facets of your web traffic (each a “Mapping,” and collectively, “Mappings”), among other things. The App is offered through our website, including https://www.Pulse.app and any other website or mobile application that we own, operate or control (we refer to these collectively as the “Website,” and together with the App, the “Service”). Pulse is a Maine company whose legal name is Pulse Profile Analytics Inc., conducting business as Pulse. Pulse has employees, suppliers and independent contractors, and representatives (our “Team”). As a customer of the Service or a representative of an entity that’s a customer of the Service, you’re a “Member” under this Agreement (or “you”), and an “End-User” of the Service.
+
+This License (“License” or “Terms” including our Terms of Use and Cookie declaration, and Privacy Policy) defines the terms and conditions under which you’re allowed to use the Service under the Agreement, and how we’ll treat your account while you’re a Member. If you don’t agree with all of these Terms, you must immediately discontinue your use of the Service.
+
+Pulse relies on a number of background providers to generate data and information that it then processes in order to provide the Service. As a result, we are contractually obliged to make our Members aware of certain terms that apply to the use of those providers and their data, which may change from time to time. Further, in our efforts to continuously improve the Service, we may change background providers, and our providers may themselves change different elements and methodologies within their offerings. Therefore, you acknowledge and agree that by signing up for an account and using the Service, you are also bound by Spatial.ai, Mapbox, DeepSolar, Elasticsearch, Azure, Google Maps/Google Earth Additional Terms of Service (including the Google Privacy Policy) as an end-user of those services and agree to comply with all of the terms and conditions thereof.
+
+If you have any questions about our Terms, feel free to contact us.
+
+Account
+1. Eligibility
+To use the Service, you must:
+
+be at least eighteen (18) years old and able to enter into contracts;
+complete the account registration process;
+agree to this License;
+provide true, complete, and up-to-date contact and billing information;
+use the Service as an End-User only, and for no other purpose;
+not be based in Cuba, Iran, North Korea, Syria, or any other country that is subject to a U.S. government embargo, or that has been designated by the U.S. government as a “terrorist-supporting” country; and
+not be listed on any U.S. government list of prohibited or restricted persons.
+By using the Service, you represent and warrant that you meet all the requirements listed above, and that you won’t use the Service in a way that violates any laws or regulations, or that incites or promotes harm to others. Note that by representing and warranting, you are making a legally enforceable promise.
+
+Pulse may exercise its sole discretion to refuse to provide or continue to provide service, close accounts of any Members, and change eligibility requirements at any time.
+
+2. Term
+When you sign up for an account and agree to this License, the Agreement between you and Pulse is formed, and the term of the Agreement (the “Term”) will begin. The Term will continue for as long as you have a Pulse account or until you or we terminate the Agreement in accordance with these Terms, whichever happens first. If you sign up for an account on behalf of a company or other entity, you represent and warrant that you have the authority to accept these Terms and enter into the Agreement on its behalf.
+
+3. Closing Your Account
+You or Pulse may terminate the Agreement at any time and for any reason by terminating your Pulse account, or by giving written notice to the other party. We may suspend the Service to you at any time, with or without cause. If we terminate your account without cause, and your account is a paid account, we’ll refund a prorated portion of your monthly prepayment for a Monthly Plan. We will not refund or reimburse you in any other situation or disburse any other amount, including if your account is suspended or terminated for cause, like a breach or any violation of the Agreement. If your account is inactive for 24 or more months, we may terminate your account. Once your account is terminated, you acknowledge and agree that we may permanently delete your account and all the data associated with it, including your Mappings, settings and configuration. Each username is unique and can only be used once. If your account has been terminated, your username will no longer be available for use on any future accounts and cannot be reclaimed or reactivated.
+
+4. Changes
+We may change any of the Terms and the pricing of Monthly Plans by posting revised Terms on our Website. Unless you terminate your account, the new Terms will be effective immediately and apply to any continued or new use of the Service. We may change the Service or any feature of the Service at any time, and we may discontinue the Service or any feature of the Service at any time.
+
+5. Account and Password
+You’re responsible for keeping your account name and password confidential. You’re also responsible for any account that you have access to and any activity occurring in such account (other than activity that Pulse is directly responsible for that isn’t performed as a result of your instructions), whether or not you personally authorized that activity, and for any consequences that may result from the use of your account. You’ll immediately notify us in writing of any unauthorized access or use of your accounts. We’re not responsible for any losses due to shared, stolen or hacked passwords. We don’t have access to your current password, and for security reasons, we can only provide you with instructions on how to reset your password. We have the right to update any of your contact information in your account for billing purposes. In addition, you represent and warrant that all information you provide to us when you establish an account, and when you access and use the Service, is and will remain complete and accurate.
+
+6. Account Disputes
+You acknowledge and agree that you won’t request or attempt to gain access to or information about an account that’s not yours, and you’ll resolve any account-related disputes directly with the other party. We decide who owns an account based on the content in that account, and if multiple people or entities are identified in the content, then we’ll rely on the contact and profile information listed for that account. In cases where differing contact and profile information is present, we’ll require you to resolve the matter through proper channels outside of Pulse and to our exoneration.
+
+When a dispute is identified, we may suspend any account associated with the dispute, including disabling login, sending and sharing functionalities, to protect the security and privacy of the data held within the account.
+
+Payment
+7. Paid Monthly Plans
+When you sign up for a paid monthly plan, you are required to specify your usage tier and your package (together, your “Monthly Plan”) from those posted on our Website based on your anticipated use of the Service. Each Monthly Plan offers different pricing and feature options. Once you select your Monthly Plan, Pulse will never automatically upgrade or downgrade your Monthly Plan.
+
+You will always have the option to upgrade to a higher Monthly Plan. If you upgrade during a billing cycle, your monthly charge for that billing cycle will be calculated based on the number of days in that billing cycle during which you were at each of the lower and higher Monthly Plan (including any applicable additional charges for the higher tier). You will also have the option to downgrade to a lower Monthly Plan at any time, but if you elect to downgrade during a billing cycle, your downgrade will not become effective until the end of that billing cycle, and you will still be charged for that entire billing cycle at the higher Monthly Plan.
+
+When you sign up for a Monthly Plan, you agree to monthly recurring billing, starting on the date you sign up. Billing occurs on the same day each month, based on the date that you started your Monthly Plan. Payments are due for any month on the same or closest date to the day you made your first monthly payment (the “Pay Date”). If any part of a month is included in the Term, then payment is required for the full month. Billing for Monthly Plans may be paused, and you may choose to close your account permanently at any time.
+
+9. Debit and Credit Cards
+As long as you’re a Member with a Monthly Plan or otherwise have an outstanding balance with us, you’ll provide us with valid debit or credit card (“Card”) information and authorize us to deduct your charges against that Card. You’ll replace the information for any Card that expires with information for a valid one. If your Card is automatically replaced with a new Card by a payment processor, you acknowledge and agree that we’re authorized to deduct any charges on your account against the new Card. You represent and warrant that you or anyone using a Card is authorized to use that Card, and that any and all charges may be billed to that Card and won’t be rejected. If we’re unable to process your Card order, we’ll try to contact you by email and suspend your account until your payment can be processed.
+
+10. Refunds
+We’ll give you a refund for a prepaid month if we stop providing the Service and terminate your account without cause. You won’t be entitled to a refund or credit from us under any other circumstance. When terminating an account without case, we may, at our sole discretion, offer a refund, discount or credit.
+
+11. Billing Changes
+We may change our fees, including our charges for Monthly Plans, at any time by posting a new pricing structure to our Website or in your account and/or sending you a notification by email. Quoted fees don’t include sales or other transaction-based taxes of any kind.
+
+If you sign up for a Monthly Plan prior to April 30, 2020, we guarantee that we will not change the pricing of your Monthly Plan for twelve (12) months following the date of your sign-up.
+
+Rights
+12. Proprietary Rights Owned by Us and by You
+We own and/or are the licensees of all proprietary rights in the Service, including, but not limited to, patents, trademarks, service marks, trade secrets, copyrights, and other intellectual property rights. You agree that you will respect all of our proprietary rights in the Service. You represent and warrant that you either own or have permission to use all of the material, content, data, and information (including your personal information and the personal information of others) that you submit to Pulse in the course of using the Service (“Content”). You retain ownership of the Content that you upload to the Service. You agree that we may use your Content (including any personal information therein) as described in these Terms, our Terms of Use and Cookie declaration, and Privacy Policy.
+
+13. Privacy Policy
+We value your privacy. Please read our Terms of Use and Cookie declaration, and Privacy Policy for information regarding how we collect, use, and disclose your Content and protect your privacy when you use the Service.
+
+14. Right to Review Content and Mappings
+We may view, copy, and internally distribute Content from your Mappings and account to create, modify or adjust algorithms and programs (“Tools”) that help us spot problem accounts and/or improve the Service. We use these Tools to find Members who violate these Terms or laws and to study data internally to make the Service smarter and create better experiences for Members.
+
+Rules and Abuse
+15. General Rules
+By agreeing to these Terms, you acknowledge and agree that Pulse doesn’t allow accounts that are used for any illegal, illicit or malicious activity. We may terminate your account if we learn that it is being used to promote or incite harm toward others.
+
+We also may suspend or terminate your account if we determine, in our sole discretion, that you are either:
+
+an organization that has publicly stated or acknowledged that its goals, objectives, positions, or founding tenets include statements or principles that could be reasonably perceived to advocate, encourage, or sponsor hate or threaten physical harm;
+a person that has publicly made a comment or statement, or otherwise publicly made known a position, including by membership in an organization as discussed above, that could be reasonably perceived to advocate, encourage, or sponsor hate or threaten physical harm; or
+a person or organization that has acted in such a way as could be reasonably perceived to advocate, encourage, or sponsor hate or threaten physical harm.
+Further, you acknowledge and agree that:
+
+You are not (and are not 50% or more owned by one or more individuals, organizations or entities that are): (1) organized or located in a country or territory that is the target of sanctions imposed by the U.S. Government or (2) listed on any restricted or sanctioned party list maintained by the U.S. Government or any other country.
+You may not use the Services in any manner that could damage or overburden the Services or interfere with any other Member’s use of the Services.
+You may not use the Services to:
+Aid or implement practices violating basic human rights or civil liberties. For the avoidance of doubt, you may not use the Services to assist in the creation of databases of identifying information for any government, corporation, party or group to abrogate any human right, civil right, or civil liberty of individuals on the basis of race, gender or gender identity, sexual orientation, religion, or national origin;
+Disseminate or store material that infringes the copyright, trademark, patent, trade secret, or other intellectual property right of any person; Create a false identity or otherwise attempting to mislead others as to the identity or origin of any communication;
+Export, re-export, or permit downloading of any content in violation of any export or import law, regulation, or restriction of the United States and its agencies or authorities, or without all required approvals, licenses, or exemptions;
+Interfere with or attempt to gain unauthorized access to any computer network;
+Host with, transmit to or provide to us any information that is subject to specific government regulation, including, without limitation, Protected Health Information (as defined in the U.S. Health Insurance Portability and Accountability Act, as amended), financial information (as regulated by the U.S. Financial Services Modernization Act, as amended), consumer reports and consumer-reporting information (as regulated by the U.S. Fair Credit Reporting Act, as amended) and information subject to export control or economic sanction laws;
+Operate a dangerous business or activity such as emergency services or air traffic control, where the use or failure of the Services could lead to death, personal injury or significant property damage;
+Transmit viruses, trojan horses, or any other malicious code or program; or
+Engage in any other activity that we reasonably deem to be in conflict with the spirit or intent of these Terms.
+You may not modify, create derivative works from, reverse engineer, or attempt to derive any source code from the Services, except as expressly permitted by a written license from us. Further, unless expressly prohibited under applicable law, you may not use the Services to develop, test, validate and/or improve any service or dataset that is a substitute for, or substantially similar to, the Services (including any portion thereof).
+If you violate any of these rules, then, without limiting any other rights we might have or actions we might pursue against you, we may suspend or terminate your account.
+
+16. Reporting Abuse
+If you think anyone is violating any of these Terms, or that anyone has posted material that violates any protected marks or copyrights or any of these Terms, please notify us immediately by reporting it to our abuse team.
+
+17. Usage and Throttling
+The Service is made available for your use only as intended and described herein. We provide image and data hosting only for your use of the Service, so you may not host images on our servers for anything else. We may throttle your usage at our discretion. You agree that you will use the Service as intended, and will not cache, scrape or mine our data.
+
+18. Compliance with Laws
+You represent and warrant that your use of the Service will comply with all applicable laws and regulations. To our complete exoneration, you are responsible for determining whether the Service is suitable for you to use in light of your obligations under any regulations like HIPAA, GLB, US federal and state data privacy laws, EU data privacy laws (including the General Data Protection Regulation) (“EU Data Privacy Laws”), United States export control laws and regulations and economic sanctions laws and regulations (“U.S. Export Control Laws and Regulations”), or other applicable laws. If you’re subject to any such laws, rules or regulations (like HIPAA) and you use the Service, then we won’t be liable if the Service doesn’t meet those requirements. You may not use the Service for any unlawful or discriminatory activities, including acts prohibited by the Federal Trade Commission Act, Fair Credit Reporting Act, Equal Credit Opportunity Act, Children’s Online Privacy Protection Act, or any other applicable laws.
+
+If you collect any personal information pertaining to a minor and/or store such information within your Pulse account, you represent and warrant that you have obtained valid consent for such activities according to the applicable laws of the jurisdiction in which the minor lives.
+
+If you’re located in the European Economic Area, the United Kingdom, or Switzerland (collectively, the “EEA”), and/or generate Mappings or other Content through the Service, and/or otherwise collect information through the Service from or about anyone located in those countries (each such Member an “EEA Member”), you agree, represent and warrant (as applicable) to Pulse that:
+
+You will clearly post, maintain, and abide by a publicly accessible privacy notice on the digital properties from which the underlying data is collected that (a) satisfies the requirements of applicable data protection laws, (b) describes your use of the Service, and (c) includes a link to Pulse’s Privacy Policy.
+You will get and maintain all necessary permissions and valid consents required to lawfully transfer data to Pulse and to enable such data to be lawfully collected, processed, and shared by Pulse for the purposes of providing the Service or as otherwise directed by you.
+You will comply with all laws and regulations applicable to the Mappings sent through the Service, including those relating to (a) acquiring consents (where required) to lawfully send Mappings, (b) the Content of Mappings, and (c) your Mapping deployment practices.
+You will provide and obtain all notices and obtain all necessary consents required by applicable data protection laws to enable Pulse to deploy cookies and similar tracking technologies (like web beacons or pixels) lawfully on and collect data from the devices of contacts and end users in accordance with and as described in the Terms of Use and Cookie declaration, and Privacy Policy.
+You are subject to Pulse’s Terms of Use and Cookie declaration, and Privacy Policy, which will apply when and to the extent Pulse processes Customer Data protected by Data Protection Laws applicable to the EEA.
+In addition, if you are an EEA Member, you acknowledge and agree that we have your prior written authorization to respond, at our discretion, to any data subject access requests we receive from your contacts made under EU Data Privacy Laws, or, alternatively, we may direct any such contacts to you so that you can respond to the request accordingly. You agree to indemnify and hold us harmless from any losses, including all legal fees and expenses, that result from your breach of this Section.
+
+19. Export Controls
+The software that supports the App (the “Software”) is subject to U.S. Export Control Laws and Regulations. Export laws are set up by the government to keep certain goods and services from reaching other countries, usually because of security concerns or trade agreements. None of the Software may be downloaded or otherwise exported or re-exported in violation of U.S. Export Control Laws and Regulations and any other applicable export laws and regulations (collectively, “Export Control Laws”). Therefore, you agree that you won’t, directly or indirectly through a third party, allow the Software or your Mappings to be accessed or generated from within, or distributed or sent to, any prohibited or embargoed country as mentioned in any Export Control Laws. In addition, you certify that neither you nor any principals, officers, directors, or any person or entity you know to be directly involved with the use of the Service is designated on any U.S. government list of prohibited or restricted persons.
+
+It’s important to note that this Section isn’t meant to provide a comprehensive summary of the Export Control Laws that govern Pulse, the Service, or the Software. You’re accessing and using the Service at your own risk, and it’s your responsibility to consult with a legal advisor to make sure your use of the Service complies with applicable laws.
+
+Liability
+20. Limitation of Liability
+To the maximum extent permitted by law, you acknowledge and agree that (i) you assume full responsibility for any loss that results from your use of the Service, including any downloads from the Website; (ii) we and our Team won’t be liable for any indirect, punitive, special, or consequential damages under any circumstances, even if they’re based on negligence or we’ve been advised of the possibility of those damages; and (iii) in any calendar month, our total liability to you arising under or in connection with the Agreement—whether in contract, tort (including negligence), breach of statutory duty, or otherwise—will be no more than what you paid us for the Service the preceding month. For the avoidance of doubt, in no instance will we or our Team be liable for any losses or damages you suffer if you use the Service in violation of these Terms, regardless of whether we terminate or suspend your account due to such violation.
+
+21. No Warranties
+To the maximum extent permitted by law, we provide the Service as-is. This means that, except as expressly stated in these Terms, we don’t provide warranties, conditions, or undertakings of any kind in relation to the Service, either express or implied. This includes, but is not limited to, warranties of merchantability and fitness for a particular purpose, which are, to the fullest extent permitted by law, excluded from the Agreement. Since Members use the Service for a variety of reasons, we can’t guarantee that it will meet your specific needs, or that it will perform satisfactorily or even consistently for your intended or attempted usage.
+
+22. Indemnity
+You agree to indemnify and hold us and our Team harmless from any losses, including legal fees and expenses that directly or indirectly result from any claims you make that aren’t allowed under these Terms due to a “Limitation of Liability” or other provision. (Indemnity is an agreement to compensate someone for a loss.) You also agree to indemnify and hold us harmless from any losses, including legal fees and expenses, that directly or indirectly result from (i) your Content, (ii) your use of the Service, (iii) your violation of any laws or regulations, (iv) third-party claims that you or someone using your password did something that, if true, would violate any of these Terms, (v) any misrepresentations made by you, or (vi) a breach of any representations or warranties you’ve made to us.
+
+23. Equitable Relief
+Your violation of these Terms may cause irreparable harm to us and our Team. Therefore, we have the right to seek injunctive relief or other equitable relief if you violate these Terms (meaning that we may request a court order to stop you).
+
+24. Subpoena Fees
+If we are required or compelled to provide information in response to a subpoena, court order, or other legal, governmental, or regulatory inquiry related to your account, then we may charge you for our costs. These fees may include attorney and employee time spent retrieving the records, preparing documents, and participating in a deposition.
+
+25. Disclaimers
+We and our Team aren’t responsible for the behavior of any third parties, linked websites, or other Members, including third-party applications, products, or services for use in connection with the Service (each, a “Third-Party Integration”). Your use of any Third-Party Integration and rights with respect to such Third-Party Integration are solely between you and the applicable third party. We are not responsible for the privacy, security or integrity of any Third-Party Integration or the practices and policies of any Third-Party Integration. We make no warranties of any kind and assume no liability of any kind for your use of any Third-Party Integration.
+
+Other Important Stuff
+26. Notice to U.S. Government End Users
+The Software and Website, including all documentation, are “Commercial Items,” as that term is defined at 48 C.F.R. §2.101, and consist of “Commercial Computer Software” and “Commercial Computer Software Documentation.” The Commercial Computer Software and Commercial Computer Software Documentation are licensed to U.S. government end users: only as Commercial Items, with the same rights as all other end users, and according to the Terms.
+
+Published and unpublished rights are reserved under the copyright laws of the United States. The manufacturer is Pulse Profile Analytics Inc., 795 Congress Street, Portland ME 04102.
+
+27. Assignments
+You may not assign any of your rights under this Agreement to anyone else. We may assign our rights to any other individual or entity at our discretion.
+
+28. Choice of Law
+The State of Maine’s laws, except for conflict of laws rules, will apply to any dispute related to the Agreement or the Service. You acknowledge and agree that any dispute related to the Agreement or the Service itself will be decided by the state or federal courts in Cumberland County, Maine, and each party consents to personal jurisdiction in those courts.
+
+29. Force Majeure
+We won’t be held liable for any delays or failure in performance of any part of the Service, from any cause beyond our control. This includes, but is not limited to, acts of god, changes to law or regulations, embargoes, war, terrorist acts, riots, fires, earthquakes, nuclear accidents, zombie apocalypse, floods, strikes, power blackouts, volcanic action, unusually severe weather conditions, and acts of hackers, or third-party internet service providers.
+
+30. Survivability
+Even if this Agreement is terminated, the following sections will continue to apply: Proprietary Rights Owned by Us and by You, Compliance with Laws, Limitation of Liability, No Warranties, Indemnity, Choice of Law, Severability, and Entire Agreement.
+
+31. Severability
+If it turns out that a section of these Terms isn’t enforceable, then that section will be removed or edited as little as required, and the rest of the Agreement will still be valid.
+
+32. Interpretation
+The headers and sidebar text are provided only to make these Terms easier to read and understand. The fact that we wrote these Terms won’t affect the way the Agreement is interpreted.
+
+33. Waiver
+If we don’t immediately take action on a violation of these Terms, we’re not giving up any rights under the Terms, and we may still take action at some point.
+
+34. No Changes in Terms at Request of Member
+Because we have so many Members, we can’t change these Terms for any one Member or group.
+
+35. Further Actions
+You’ll provide all documents and take any actions necessary to meet your obligations under these Terms.
+
+36. Notification of Security Incident
+If we become aware of a security incident related to our systems or databases that contain personal information of you or your contacts, we’ll notify you if required by law. In that event, we’ll also provide you with information about that incident so that you can evaluate the consequences to you and any legal or regulatory requirements that may apply to you, unless we’re prevented from doing so by legal, security or confidentiality obligations. Notifying you of a security incident or cooperating with you to respond to one will not be deemed an acknowledgement or assumption of any liability or fault of Pulse for such incident.
+
+37. Notices
+Any notice to you will be effective when we send it to the last email or physical address you gave us or when posted on our Website. Any notice to us will be effective when delivered to us at Pulse Profile Analytics Inc., 795 Congress Street, Portland, Maine, 04102.
+
+38. Entire Agreement
+These Terms make up the entire agreement between us in relation to its subject matter and supersede all prior agreements, representations, and understandings.
+
+Effective October 22, 2019.

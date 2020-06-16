@@ -1,0 +1,42 @@
+﻿#registrationForm input.error {
+    border-color: red;
+}
+
+#registrationForm label.error {
+    vertical-align: middle;
+    margin-left: 5px;
+}
+
+.spinner {
+    display: none;
+    position: fixed;
+    z-index: 9999;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    background: rgba(255,255,255,.8) url('/episerver/PulsePersonalizationApp/ClientResources/Images/spinner.gif') 50% 50% no-repeat;
+    margin: 0;
+}
+
+.loading .spinner {
+    overflow: hidden;
+}
+
+.loading .spinner {
+    display: block;
+}
+
+.ui-widget-content {
+    background: none !important;
+    border: none !important;
+}
+
+.ui-widget-header {
+    border: none !important;
+    background: none !important;
+}
+
+.ui-state-default, .ui-widget-content .ui-state-default {
+    border: none !important;
+}

@@ -1,0 +1,55 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>PulsePersonalizationApp</id>
+    <version>1.0.6</version>
+    <authors>Coria Inc.</authors>
+    <owners>Coria Inc.</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <title>Pulse Personalization App</title>
+    <summary>
+      The Pulse Personalization App for Episerver provides a simple way to extend Visitor Groups so you can instantly classify your visitors by their lifestyle, demographics, and social interests based on the characteristics of the neighborhood they are coming from.
+    </summary>
+    <description>
+The Pulse Personalization App for Episerver provides a simple way to extend Visitor Groups so you can instantly classify your visitors by their lifestyle, demographics, and social interests based on the characteristics of the neighborhood they are coming from.
+
+Installed as a Nuget package, the extension creates a criterion for Visitor Group membership that uses the existence of a specific market segment key in the list returned by the Pulse Personalization API. A subscription to the Pulse Personalization API is required. This specific version of the Nuget package comes with a rate limited API key for testing purposes.
+The app functions by geocoding the IP address of the visitor using the MaxMindGeolocation provider and passing the resulting lat/long coordinate pair to the Pulse API endpoint using the Pulse API Key for authentication.
+
+Communication with the Pulse API Endpoint is secured using SSL. No Personally Identifiable Information (PII) is passed to or returned from the Pulse API Endpoint. The Pulse API Endpoint returns a list of market segments that have high scores for the geographic location corresponding to the coordinates passed to the endpoint. 
+Different market segments will be returned based on the datasets included in the subscription associated with the Pulse API Key. 
+In the event there are no datasets with corresponding high scores for any market segments and empty set is returned. In the event the Pulse API endpoint is unavailable, the visitor will not be added to any Pulse Analytics visitor groups.
+
+The request for the market segments is performed asynchronously at session start. This means that the visitor will not be added to the Visitor Group(s) in time to personalize the first page load. This is intentional to ensure that the first page load time is not adversely affected. We may add an option to override this behavior in future versions.
+    </description>
+    <releaseNotes>
+      Version 1.0.6
+      -Now it's possible to register and get the API key quicker. Go to Admin Panel > Admin > Tools > Pulse Personalization App and register to start using right away.
+      -Option to remove all Pulse Visitor Groups from your Episerver instance. Go to Admin Panel > Admin > Tools > Pulse Personalization App type the word DELETE in the field below and click the Delete button.
+      -Diagnostics tab added to Admin Panel > Admin > Tools > Pulse Personalization App > Diagnostics.
+      -Minor bug fixes
+    </releaseNotes>
+    <copyright>Copyright © Coria Inc. 2020</copyright>
+    <tags>EPiServerModulePackage Pulse Personalization App Coria my.pulse.app pulse.app Release</tags>
+    <license type="file">license/license.txt</license>
+    <icon>icon/pulse-icon-gold.png</icon>
+    <iconUrl>https://www.pulse.app/-/media/PULSE/Logos/pulse-icon-gold.png</iconUrl>
+    <language>en-US</language>
+    <projectUrl>https://www.pulse.app/</projectUrl>
+    <dependencies>
+      <dependency id="EPiServer.CMS.AspNet" version="11.1.0" />
+      <dependency id="EPiServer.CMS.UI.Core" version="11.1.0" />
+      <dependency id="System.Net.Http" version="4.3.4" />
+      <dependency id="EPiServer.Personalization.MaxMindGeolocation" version="1.0.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="bin\PulsePersonalizationApp.dll" target="lib\net461\" />
+    <file src="Modules\PulsePersonalizationApp\PulsePersonalizationApp.zip" target="content\modules\_protected\PulsePersonalizationApp\" />
+    <file src="Modules\PulsePersonalizationApp\web.config" target="content\modules\_protected\PulsePersonalizationApp\" />
+    <file src="web.config.install.xdt" target="content" />
+    <file src="web.config.uninstall.xdt" target="content" />
+    <file src="license.txt" target="license" />
+    <file src="ClientResources\Images\pulse-icon-gold.png" target="icon" />
+  </files>
+</package>

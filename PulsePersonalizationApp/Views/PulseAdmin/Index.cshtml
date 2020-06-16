@@ -1,0 +1,135 @@
+﻿@inherits System.Web.Mvc.WebViewPage<PulsePersonalizationApp.Models.PulseAdminModel>
+
+@{
+    Layout = null;
+}
+
+<html>
+    <head>
+        <meta name="viewport" content="width=device-width" />
+        <title>Pulse Personalization App</title>
+        <link rel="stylesheet" type="text/css" href="@(PulsePersonalizationApp.Global.GetProtectedStylesUrl() + "style.css")"/>
+        <link rel="stylesheet" type="text/css" href="@(PulsePersonalizationApp.Global.GetProtectedStylesUrl() + "epi/ShellCore.css")" />
+        <link rel="stylesheet" type="text/css" href="@(PulsePersonalizationApp.Global.GetProtectedStylesUrl() + "epi/ShellCoreLightTheme.css")" />
+        <link rel="stylesheet" type="text/css" href="@(PulsePersonalizationApp.Global.GetProtectedStylesUrl() + "epi/system.css")" />
+        <link rel="stylesheet" type="text/css" href="@(PulsePersonalizationApp.Global.GetProtectedStylesUrl() + "epi/ToolButton.css")"/>
+    </head>
+    <body>
+        <div class="spinner"></div>
+        <div class="epi-contentContainer epi-padding">
+            <div class="epi-contentArea">
+                <h1 class="EP-prefix">
+                    Pulse Personalization App
+                    <a title="Pulse" href="https://www.pulse.app/" target="_blank">
+                        <img class="EPEdit-CommandTool" src="/episerver/PulsePersonalizationApp/ClientResources/Images/pulse-icon-gold.png" width="25">
+                    </a>
+                </h1>
+                <p class="EP-systemInfo">
+                    This is the Pulse Personalization App Admin page
+                </p>
+            </div>
+            <div class="epi-gridColumn epi-tabView" id="tabs">
+                <ul class="epi-tabView-navigation">
+                    <li class="epi-tabView-navigation-item">
+                        <a href="#tab-1" class="epi-tabView-tab">General</a>
+                    </li>
+                    <li class="epi-tabView-navigation-item">
+                        <a href="#tab-2" class="epi-tabView-tab">Diagnostics</a>
+                    </li>
+                </ul>
+                <div class="epi-topTabPanelContainer epi-scrollable .epi-topTabPanelContainer">
+                    <div id="tab-1" class="epi-tabView-tabPanel">
+                        <div class="epi-formArea">
+                            <fieldset>
+                                <legend>Pulse API key settings</legend>
+                                <div class="epi-size20">
+                                    <div>
+                                        <label for="apiKey">Pulse API key</label>
+                                        <input id="apiKey" name="apiKey" type="text" maxlength="100" class="episize240" value="@Model.PulseApiKey" disabled>
+                                        <span class="epi-cmsButton">
+                                            <input class=" epi-cmsButton-tools epi-cmsButton-Edit" name="editApi" id="editApi" title="Edit">
+                                        </span>
+                                        <span class="epi-cmsButton">
+                                            <input class="epi-cmsButton-text epi-cmsButton-tools epi-cmsButton-Save" type="submit" name="saveApiKey" id="saveApiKey" value="Save" title="Save">
+                                        </span>
+                                    </div>
+                                </div>
+                            </fieldset>
+                        </div>
+                        <div class="epi-formArea">
+                            <fieldset>
+                                <legend>Register to get Pulse API key</legend>
+                                <div class="epi-size20">
+                                    <form id="registrationForm">
+                                        <div>
+                                            <label for="firstName">First Name</label>
+                                            <input id="firstName" name="firstName" type="text" maxlength="100" class="episize240" value="@Model.FirstName">
+                                        </div>
+                                        <div>
+                                            <label for="lastName">Last Name</label>
+                                            <input id="lastName" name="lastName" type="text" maxlength="100" class="episize240" value="@Model.LastName">
+                                        </div>
+                                        <div>
+                                            <label for="companyName">Company Name</label>
+                                            <input id="companyName" name="companyName" type="text" maxlength="100" class="episize240" value="@Model.CompanyName">
+                                        </div>
+                                        <div>
+                                            <label for="email">Email</label>
+                                            <input id="email" name="email" type="email" maxlength="100" class="episize240" value="@Model.Email">
+                                        </div>
+                                        <div class="epi-indent">
+                                            <span class="epi-cmsButton">
+                                                <input class="epi-cmsButton-text epi-cmsButton-tools epi-cmsButton-ArrowRight" type="submit" id="pulseSubmit" value="Submit" title="Submit">
+                                            </span>
+                                        </div>
+                                    </form>
+                                </div>
+                            </fieldset>
+                        </div>
+                        <div class="epi-formArea">
+                            <fieldset>
+                                <legend>Before uninstallation</legend>
+                                <div class="epi-size20">
+                                    <p>To remove all Pulse Visitor Groups from your Episerver instance, type the word DELETE in the field below and click the Delete button</p>
+                                    <div>
+                                        <label for="apiKey">Delete Visitor Groups</label>
+                                        <input id="deleteVG" name="deleteVG" type="text" maxlength="100" class="episize240">
+                                        <span class="epi-cmsButton">
+                                            <input class="epi-cmsButton-text epi-cmsButton-tools epi-cmsButton-Delete" type="submit" name="deleteVGbtn" id="deleteVGbtn" value="Delete" title="Delete" disabled>
+                                        </span>
+                                    </div>
+                                </div>
+                            </fieldset>
+                        </div>
+                    </div>
+                    <div id="tab-2" class="epi-tabView-tabPanel">
+                        <div class="epi-formArea">
+                            <fieldset>
+                                <legend>Diagnostics</legend>
+                                <div class="epi-size20">
+                                    <p>Click run diagnostics to get diagnostics data</p>
+                                    <div>
+                                        <span class="epi-cmsButton">
+                                            <input class="epi-cmsButton-text epi-cmsButton-tools epi-cmsButton-ArrowRight" type="submit" name="runDiag" id="runDiag" value="Run diagnostics" title="Run diagnostics">
+                                        </span>
+                                        <span class="epi-cmsButton">
+                                            <input class="epi-cmsButton-text epi-cmsButton-tools epi-cmsButton-Delete" type="submit" name="clearDiag" id="clearDiag" value="Clear" title="Clear">
+                                        </span>
+                                    </div>
+                                    <textarea id="diagText" rows="15" cols="95" readonly></textarea>
+                                </div>
+                            </fieldset>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </body>
+</html>
+
+<script src="@(PulsePersonalizationApp.Global.GetProtectedScriptsUrl() + "jquery-3.4.0.min.js")"></script>
+<script src="@(PulsePersonalizationApp.Global.GetProtectedScriptsUrl() + "jquery.validate.min.js")"></script>
+<script src="@(PulsePersonalizationApp.Global.GetProtectedScriptsUrl() + "jquery-ui.min.js")"></script>
+<script src="@(PulsePersonalizationApp.Global.GetProtectedScriptsUrl() + "PulseAdmin/pulseadmin.js")"></script>
+
+
